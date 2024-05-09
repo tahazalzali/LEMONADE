@@ -1,0 +1,1 @@
+export const ApiUrl = 'https://mocki.io/v1/890cf9a2-a45e-4515-ae3a-4cc6aff3d369';
